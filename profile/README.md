@@ -1,9 +1,9 @@
 # 🌱 Welcome to Sandbox Science
 
-**Sandbox Science** is a collaborative playground for programmers of all backgrounds—students, professionals, and passionate tinkerers—to explore, experiment, and grow together.
+**Sandbox Science** is a collaborative playground for programmers of all backgrounds (students, professionals, and passionate tinkerers) to explore, experiment, and grow together.
 
-Our mission is simple: **build real projects while learning real skills.**
-Whether you’re diving into systems programming, exploring algorithms, or prototyping creative tools, this space is designed to encourage hands-on learning and community-driven development.
+The mission is simple: **build real projects while learning real skills.**
+Whether you’re learning systems programming, exploring algorithms, or prototyping creative tools, this space is designed to encourage hands-on learning and community-driven development.
 
 > [!TIP]
 > 
